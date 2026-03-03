@@ -1,0 +1,30 @@
+/* Archivo: style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+.header {
+    color: #e3350d; /* Rojo Pokémon */
+    margin-bottom: 30px;
+}
+.tarjeta {
+    background: white;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 350px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.tipo {
+    display: inline-block;
+    background-color: #a33ea1; /* Color tipo psíquico por defecto */
+    color: white;
+    padding: 5px 15px;
+    border-radius: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin: 5px;
+}
