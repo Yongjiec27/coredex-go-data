@@ -1,0 +1,213 @@
+:root {
+    --bg-color: #f4f7f6;
+    --card-bg: #ffffff;
+    --text-main: #2d3436;
+    --text-muted: #636e72;
+    --accent: #0984e3;
+    --border-radius: 16px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    margin: 0;
+    min-height: 100vh;
+}
+
+h1 {
+    color: var(--text-main);
+    margin-bottom: 0.5rem;
+    text-align: center;
+}
+
+.subtitle {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+/* --- ESTILOS DEL RADAR --- */
+.controls {
+    margin-bottom: 2rem;
+    width: 100%;
+    max-width: 400px;
+}
+
+select {
+    width: 100%;
+    padding: 12px;
+    border-radius: 8px;
+    border: 2px solid #dfe6e9;
+    font-size: 1rem;
+    background-color: white;
+    cursor: pointer;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+select:focus {
+    border-color: var(--accent);
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: var(--border-radius);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    padding: 2rem;
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    display: none; /* Oculto hasta que se seleccione uno */
+    animation: fadeIn 0.4s ease-out;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.tier-badge {
+    background-color: #fdcb6e;
+    color: #2d3436;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.poke-image {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin: 0 auto 1rem;
+    display: block;
+    filter: drop-shadow(0 10px 10px rgba(0,0,0,0.15));
+}
+
+h2.poke-name {
+    margin: 0 0 1rem 0;
+    font-size: 2rem;
+    text-transform: capitalize;
+}
+
+.types-container, .weakness-container {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+}
+
+.type-badge {
+    color: white;
+    padding: 6px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+.section-title {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    margin-bottom: 0.8rem;
+    border-bottom: 2px solid #f1f2f6;
+    padding-bottom: 0.5rem;
+    text-align: left;
+}
+
+.counters-list {
+    text-align: left;
+    padding: 0;
+    list-style: none;
+    margin: 0;
+}
+
+.counters-list li {
+    background: #f8f9fa;
+    margin-bottom: 8px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border-left: 4px solid var(--accent);
+    font-size: 0.95rem;
+    color: var(--text-main);
+}
+
+/* --- ESTILOS DEL CALENDARIO --- */
+.calendar-container {
+    width: 100%;
+    max-width: 900px;
+    margin-top: 4rem;
+}
+
+.calendar-title {
+    text-align: left;
+    font-size: 1.5rem;
+    color: var(--text-main);
+    margin-bottom: 1.5rem;
+    border-bottom: 3px solid var(--accent);
+    padding-bottom: 0.5rem;
+    display: inline-block;
+}
+
+.events-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+}
+
+.event-card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+    border-left: 6px solid var(--accent);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.event-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+}
+
+.event-type {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    margin-bottom: 0.5rem;
+}
+
+.event-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--text-main);
+    margin: 0 0 1rem 0;
+    line-height: 1.3;
+}
+
+.event-dates {
+    background: #f1f2f6;
+    border-radius: 6px;
+    padding: 8px 12px;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}

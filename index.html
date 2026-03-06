@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>coreDex Go - Radar y Calendario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>coreDex Go</h1>
+    <p class="subtitle">Radar Automático y Calendario de Eventos</p>
+
+    <div class="controls">
+        <select id="poke-select">
+            <option value="">-- Selecciona una Incursión Actual --</option>
+        </select>
+    </div>
+
+    <div class="card" id="poke-card">
+        <div class="tier-badge" id="poke-tier">Nivel ?</div>
+        <img src="" alt="Pokemon" class="poke-image" id="poke-image">
+        <h2 class="poke-name" id="poke-name">Nombre</h2>
+        
+        <div class="types-container" id="poke-types">
+            </div>
+
+        <div class="section-title"> Débil contra:</div>
+        <div class="weakness-container" id="poke-weaknesses">
+            </div>
+
+        <div class="section-title"> Mejores Counters:</div>
+        <ul class="counters-list" id="poke-counters">
+            </ul>
+    </div>
+
+    <div class="calendar-container">
+        <h2 class="calendar-title">📅 Calendario de Marzo 2026</h2>
+        <div class="events-grid" id="events-grid">
+            </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
