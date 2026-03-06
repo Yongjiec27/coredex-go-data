@@ -31,7 +31,7 @@ h1 {
     text-align: center;
 }
 
-/* --- ESTILOS DEL RADAR --- */
+
 .controls {
     margin-bottom: 2rem;
     width: 100%;
@@ -62,7 +62,7 @@ select:focus {
     width: 100%;
     max-width: 400px;
     text-align: center;
-    display: none; /* Oculto hasta que se seleccione uno */
+    display: none; 
     animation: fadeIn 0.4s ease-out;
 }
 
@@ -144,7 +144,7 @@ h2.poke-name {
     color: var(--text-main);
 }
 
-/* --- ESTILOS DEL CALENDARIO --- */
+/* Calendario */
 .calendar-container {
     width: 100%;
     max-width: 900px;

@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-print("Iniciando Motor V15 🚀: Extracción directa desde el backend de PoGoCalendar (ScrapedDuck)...")
+print("Iniciando Motor V15 : Extracción directa desde el backend de PoGoCalendar (ScrapedDuck)...")
 
 def extraer_raids_scrapedduck():
     jefes_encontrados = []
@@ -37,9 +37,9 @@ def extraer_raids_scrapedduck():
             
             return jefes_encontrados
         else:
-            print(f"❌ Error al conectar con el repositorio: {resp.status_code}")
+            print(f" Error al conectar con el repositorio: {resp.status_code}")
     except Exception as e:
-        print("❌ Falla de red al intentar descargar los datos.")
+        print(" Falla de red al intentar descargar los datos.")
     
     return []
 
@@ -125,6 +125,6 @@ if len(lista_jefes) > 0:
     with open("datos.json", "w", encoding="utf-8") as archivo:
         json.dump(jefes_procesados, archivo, indent=4, ensure_ascii=False)
         
-    print(f"\n¡Misión Completada! ✅ Sistema 100% automático basado en PoGoCalendar listo. Jefes guardados: {len(jefes_procesados)}")
+    print(f"\n¡Misión Completada! Sistema 100% automático basado en PoGoCalendar listo. Jefes guardados: {len(jefes_procesados)}")
 else:
-    print("\n❌ La tubería de datos de ScrapedDuck falló o cambió de ubicación.")
+    print("\n La tubería de datos de ScrapedDuck falló o cambió de ubicación.")
