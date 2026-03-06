@@ -1,4 +1,3 @@
-
 // Diccionario de colores oficiales por tipo
 const typeColors = {
     normal: '#A8A77A', fire: '#EE8130', water: '#6390F0', electric: '#F7D02C',
@@ -6,6 +5,15 @@ const typeColors = {
     ground: '#E2BF65', flying: '#A98FF3', psychic: '#F95587', bug: '#A6B91A',
     rock: '#B6A136', ghost: '#735797', dragon: '#6F35FC', dark: '#705746',
     steel: '#B7B7CE', fairy: '#D685AD'
+};
+
+// Diccionario traductor al español
+const tiposEspanol = {
+    normal: 'Normal', fire: 'Fuego', water: 'Agua', electric: 'Eléctrico',
+    grass: 'Planta', ice: 'Hielo', fighting: 'Lucha', poison: 'Veneno',
+    ground: 'Tierra', flying: 'Volador', psychic: 'Psíquico', bug: 'Bicho',
+    rock: 'Roca', ghost: 'Fantasma', dragon: 'Dragón', dark: 'Siniestro',
+    steel: 'Acero', fairy: 'Hada'
 };
 
 let jefesData = [];
@@ -41,25 +49,25 @@ document.getElementById('poke-select').addEventListener('change', function() {
     document.getElementById('poke-tier').textContent = `Incursión ${jefe.nivel}`;
     document.getElementById('poke-image').src = jefe.foto;
 
-    // Limpiar y llenar Tipos
+    // Limpiar y llenar Tipos (AHORA TRADUCIDOS)
     const typesContainer = document.getElementById('poke-types');
     typesContainer.innerHTML = '';
     jefe.tipos.forEach(tipo => {
         const span = document.createElement('span');
         span.className = 'type-badge';
         span.style.backgroundColor = typeColors[tipo] || '#777';
-        span.textContent = tipo;
+        span.textContent = tiposEspanol[tipo] || tipo; // <-- TRADUCCIÓN MÁGICA
         typesContainer.appendChild(span);
     });
 
-    // Limpiar y llenar Debilidades
+    // Limpiar y llenar Debilidades (AHORA TRADUCIDAS)
     const weakContainer = document.getElementById('poke-weaknesses');
     weakContainer.innerHTML = '';
     jefe.debilidades.forEach(deb => {
         const span = document.createElement('span');
         span.className = 'type-badge';
         span.style.backgroundColor = typeColors[deb] || '#777';
-        span.textContent = deb;
+        span.textContent = tiposEspanol[deb] || deb; // <-- TRADUCCIÓN MÁGICA
         weakContainer.appendChild(span);
     });
 
@@ -75,7 +83,7 @@ document.getElementById('poke-select').addEventListener('change', function() {
     card.style.display = 'block';
 });
 
-//Calendario de eventos
+// Calendario de eventos
 // Base de datos de eventos
 const eventosMarzo = [
     { tipo: "Evento Global", nombre: "Pokémon 30th Anniversary - All Out", fechas: "7 Mar - 9 Mar", color: "#e84393" },
