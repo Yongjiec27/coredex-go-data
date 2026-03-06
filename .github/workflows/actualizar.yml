@@ -1,0 +1,35 @@
+name: Actualizar coreDex Go
+
+# 1. ¿Cuándo se ejecuta?
+on:
+  schedule:
+    - cron: '0 0 * * *' # Todos los días a medianoche automáticamente
+  workflow_dispatch: # Un botón manual para que lo probemos nosotros ahora
+
+# 2. ¿Qué hace?
+jobs:
+  actualizar-datos:
+    runs-on: ubuntu-latest # Usa un ordenador gratuito de GitHub
+    
+    steps:
+      - name: Descargar el código
+        uses: actions/checkout@v3
+
+      - name: Preparar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar herramientas (Requests)
+        run: pip install requests
+
+      - name: Ejecutar el Scraper
+        run: python scraper.py
+
+      - name: Guardar los datos nuevos
+        run: |
+          git config user.name "Bot coreDex Go"
+          git config user.email "bot@coredex.com"
+          git add datos.json
+          git commit -m "Actualizando jefe de incursión automáticamente" || exit 0
+          git push

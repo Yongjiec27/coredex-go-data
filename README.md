@@ -1,0 +1,1 @@
+# coredex-go-data
