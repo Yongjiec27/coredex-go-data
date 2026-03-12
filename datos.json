@@ -1,17 +1,73 @@
 [
     {
-        "nombre": "Pikachu",
+        "nombre": "Gulpin",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/316.png",
         "tipos": [
-            "electric"
+            "poison"
         ],
         "debilidades": [
-            "ground"
+            "ground",
+            "psychic"
         ],
         "counters": [
             "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
+            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Mewtwo (Confusión/Onda Mental)",
+            "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Drilbur",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/529.png",
+        "tipos": [
+            "ground"
+        ],
+        "debilidades": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Timburr",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+        "tipos": [
+            "fighting"
+        ],
+        "debilidades": [
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Mewtwo (Confusión/Onda Mental)",
+            "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Minccino",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/572.png",
+        "tipos": [
+            "normal"
+        ],
+        "debilidades": [
+            "fighting"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)"
         ]
     },
     {
@@ -69,80 +125,41 @@
         ]
     },
     {
-        "nombre": "Articuno",
+        "nombre": "Zacian",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
         "tipos": [
-            "ice",
-            "flying"
+            "fairy"
+        ],
+        "debilidades": [
+            "poison",
+            "steel"
+        ],
+        "counters": [
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)",
+            "Metagross (Puño Bala/Puño Meteoro)",
+            "Dialga (Garra Metal/Cabeza Hierro)"
+        ]
+    },
+    {
+        "nombre": "Mega Steelix",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png",
+        "tipos": [
+            "steel",
+            "ground"
         ],
         "debilidades": [
             "fighting",
-            "rock",
-            "steel",
+            "ground",
             "fire"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
             "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Zapdos",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-        "tipos": [
-            "electric",
-            "flying"
-        ],
-        "debilidades": [
-            "ground"
-        ],
-        "counters": [
             "Groudon (Disparo Lodo/Filo del Abismo)",
             "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Moltres",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-        "tipos": [
-            "fire",
-            "flying"
-        ],
-        "debilidades": [
-            "ground",
-            "rock",
-            "water"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Mega Pinsir",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png",
-        "tipos": [
-            "bug",
-            "flying"
-        ],
-        "debilidades": [
-            "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
         ]
     },
     {
