@@ -1,147 +1,93 @@
 [
     {
-        "nombre": "Pineco",
+        "nombre": "Larvitar",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/204.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
         "tipos": [
-            "bug"
-        ],
-        "debilidades": [
-            "flying",
             "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Nincada",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
-        "tipos": [
-            "bug",
             "ground"
         ],
         "debilidades": [
-            "flying",
-            "rock",
-            "fire"
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Dwebble",
+        "nombre": "Lileep",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/557.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png",
         "tipos": [
-            "bug",
-            "rock"
-        ],
-        "debilidades": [
-            "flying",
             "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Cutiefly",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/742.png",
-        "tipos": [
-            "bug",
-            "fairy"
-        ],
-        "debilidades": [
-            "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Yanma",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/193.png",
-        "tipos": [
-            "bug",
-            "flying"
-        ],
-        "debilidades": [
-            "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Swadloon",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/541.png",
-        "tipos": [
-            "bug",
             "grass"
         ],
         "debilidades": [
-            "flying",
-            "rock",
-            "fire"
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Charjabug",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/737.png",
+        "nombre": "Galarian Stunfisk",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png",
         "tipos": [
-            "bug",
-            "electric"
+            "ground",
+            "steel"
         ],
         "debilidades": [
-            "flying",
-            "rock",
-            "fire"
+            "water",
+            "grass",
+            "ice"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
         ]
     },
     {
-        "nombre": "Zamazenta",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+        "nombre": "Rockruff",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+        "tipos": [
+            "rock"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Machamp",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
         "tipos": [
             "fighting"
         ],
@@ -158,22 +104,77 @@
         ]
     },
     {
-        "nombre": "Mega Slowbro",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png",
+        "nombre": "Hippowdon",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png",
         "tipos": [
-            "water",
-            "psychic"
+            "ground"
         ],
         "debilidades": [
+            "water",
             "grass",
-            "electric"
+            "ice"
         ],
         "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
             "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Bombirdier",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+        "tipos": [
+            "flying",
+            "dark"
+        ],
+        "debilidades": [
+            "rock",
+            "electric",
+            "ice"
+        ],
+        "counters": [
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)",
             "Zekrom (Rayo Carga/Voltio Cruel)",
             "Xurkitree (Impactrueno/Chispazo)"
+        ]
+    },
+    {
+        "nombre": "Regieleki",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/894.png",
+        "tipos": [
+            "electric"
+        ],
+        "debilidades": [
+            "ground"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Mega Houndoom",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png",
+        "tipos": [
+            "dark",
+            "fire"
+        ],
+        "debilidades": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)"
         ]
     },
     {
