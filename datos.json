@@ -1,111 +1,8 @@
 [
     {
-        "nombre": "Foongus",
+        "nombre": "Cubone",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/590.png",
-        "tipos": [
-            "grass",
-            "poison"
-        ],
-        "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
-        ]
-    },
-    {
-        "nombre": "Phantump",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/708.png",
-        "tipos": [
-            "ghost",
-            "grass"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Sandygast",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
-        "tipos": [
-            "ghost",
-            "ground"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Gossifleur",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/829.png",
-        "tipos": [
-            "grass"
-        ],
-        "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
-        ]
-    },
-    {
-        "nombre": "Vileplume",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
-        "tipos": [
-            "grass",
-            "poison"
-        ],
-        "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
-        ]
-    },
-    {
-        "nombre": "Dugtrio",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
         "tipos": [
             "ground"
         ],
@@ -119,66 +16,6 @@
             "Swampert (Pistola Agua/Hidrocañón)",
             "Kartana (Hoja Afilada/Hoja Aguda)",
             "Sceptile (Semilladora/Planta Feroz)"
-        ]
-    },
-    {
-        "nombre": "Torterra",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/389.png",
-        "tipos": [
-            "grass",
-            "ground"
-        ],
-        "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
-        ]
-    },
-    {
-        "nombre": "Groudon",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
-        "tipos": [
-            "ground"
-        ],
-        "debilidades": [
-            "water",
-            "grass",
-            "ice"
-        ],
-        "counters": [
-            "Kyogre (Cascada/Pulso Primigenio)",
-            "Swampert (Pistola Agua/Hidrocañón)",
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)"
-        ]
-    },
-    {
-        "nombre": "Mega Alakazam",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
         ]
     },
     {
@@ -198,6 +35,97 @@
             "Darmanitan Galar (Colmillo Hielo/Alud)",
             "Rayquaza (Cola Dragón/Enfado)",
             "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Meditite",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/307.png",
+        "tipos": [
+            "fighting",
+            "psychic"
+        ],
+        "debilidades": [
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Mewtwo (Confusión/Onda Mental)",
+            "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Nidoking",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+        "tipos": [
+            "poison",
+            "ground"
+        ],
+        "debilidades": [
+            "ground",
+            "psychic"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Mewtwo (Confusión/Onda Mental)",
+            "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Skarmory",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+        "tipos": [
+            "steel",
+            "flying"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Drampa",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+        "tipos": [
+            "normal",
+            "dragon"
+        ],
+        "debilidades": [
+            "fighting"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)"
+        ]
+    },
+    {
+        "nombre": "Tapu Koko",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+        "tipos": [
+            "electric",
+            "fairy"
+        ],
+        "debilidades": [
+            "ground"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
