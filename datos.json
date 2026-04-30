@@ -81,19 +81,41 @@
         ]
     },
     {
-        "nombre": "Tapu Koko",
+        "nombre": "Tapu Lele",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/785.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
         "tipos": [
-            "electric",
+            "psychic",
             "fairy"
         ],
         "debilidades": [
-            "ground"
+            "bug",
+            "ghost",
+            "dark"
         ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)",
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)"
+        ]
+    },
+    {
+        "nombre": "Mega Banette",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png",
+        "tipos": [
+            "ghost"
+        ],
+        "debilidades": [
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
         ]
     },
     {
