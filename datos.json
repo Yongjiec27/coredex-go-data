@@ -1,43 +1,126 @@
 [
     {
-        "nombre": "Machop",
+        "nombre": "Clefairy",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
         "tipos": [
-            "fighting"
-        ],
-        "debilidades": [
-            "flying",
-            "psychic",
             "fairy"
         ],
+        "debilidades": [
+            "poison",
+            "steel"
+        ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)",
+            "Metagross (Puño Bala/Puño Meteoro)",
+            "Dialga (Garra Metal/Cabeza Hierro)"
+        ]
+    },
+    {
+        "nombre": "Alolan Grimer",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png",
+        "tipos": [
+            "poison",
+            "dark"
+        ],
+        "debilidades": [
+            "ground",
+            "psychic"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)",
             "Mewtwo (Confusión/Onda Mental)",
             "Alakazam (Confusión/Premonición)"
         ]
     },
     {
-        "nombre": "Doduo",
+        "nombre": "Gible",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
         "tipos": [
-            "normal",
-            "flying"
+            "dragon",
+            "ground"
         ],
         "debilidades": [
-            "fighting"
+            "ice",
+            "dragon",
+            "fairy"
         ],
         "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)"
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
-        "nombre": "Rockruff",
+        "nombre": "Wimpod",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png",
+        "tipos": [
+            "bug",
+            "water"
+        ],
+        "debilidades": [
+            "flying",
+            "rock",
+            "fire"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Piloswine",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+        "tipos": [
+            "ice",
+            "ground"
+        ],
+        "debilidades": [
+            "fighting",
+            "rock",
+            "steel",
+            "fire"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Turtonator",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
+        "tipos": [
+            "fire",
+            "dragon"
+        ],
+        "debilidades": [
+            "ground",
+            "rock",
+            "water"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Klawf",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
         "tipos": [
             "rock"
         ],
@@ -56,132 +139,45 @@
         ]
     },
     {
-        "nombre": "Rapidash",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+        "nombre": "Tapu Bulu",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/787.png",
         "tipos": [
-            "fire"
-        ],
-        "debilidades": [
-            "ground",
-            "rock",
-            "water"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Zebstrika",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/523.png",
-        "tipos": [
-            "electric"
-        ],
-        "debilidades": [
-            "ground"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Scolipede",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
-        "tipos": [
-            "bug",
-            "poison"
+            "grass",
+            "fairy"
         ],
         "debilidades": [
             "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Buzzwole",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png",
-        "tipos": [
+            "poison",
             "bug",
-            "fighting"
-        ],
-        "debilidades": [
-            "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Pheromosa",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png",
-        "tipos": [
-            "bug",
-            "fighting"
-        ],
-        "debilidades": [
-            "flying",
-            "rock",
-            "fire"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Xurkitree",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png",
-        "tipos": [
-            "electric"
-        ],
-        "debilidades": [
-            "ground"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Mega Glalie",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png",
-        "tipos": [
+            "fire",
             "ice"
         ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
+        ]
+    },
+    {
+        "nombre": "Mega Altaria",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png",
+        "tipos": [
+            "dragon",
+            "fairy"
+        ],
         "debilidades": [
-            "fighting",
-            "rock",
-            "steel",
-            "fire"
+            "ice",
+            "dragon",
+            "fairy"
         ],
         "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
