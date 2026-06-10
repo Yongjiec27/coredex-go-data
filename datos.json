@@ -1,10 +1,52 @@
 [
     {
-        "nombre": "Galarian Meowth",
+        "nombre": "Rockruff",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
         "tipos": [
-            "steel"
+            "rock"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Scraggy",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
+        "tipos": [
+            "dark",
+            "fighting"
+        ],
+        "debilidades": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)"
+        ]
+    },
+    {
+        "nombre": "Honedge",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
+        "tipos": [
+            "steel",
+            "ghost"
         ],
         "debilidades": [
             "fighting",
@@ -19,99 +61,62 @@
         ]
     },
     {
-        "nombre": "Chimecho",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/358.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
-        ]
-    },
-    {
-        "nombre": "Galarian Stunfisk",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png",
-        "tipos": [
-            "ground",
-            "steel"
-        ],
-        "debilidades": [
-            "water",
-            "grass",
-            "ice"
-        ],
-        "counters": [
-            "Kyogre (Cascada/Pulso Primigenio)",
-            "Swampert (Pistola Agua/Hidrocañón)",
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)"
-        ]
-    },
-    {
-        "nombre": "Hatenna",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
-        ]
-    },
-    {
-        "nombre": "Galarian Weezing",
+        "nombre": "Machamp",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
         "tipos": [
-            "poison",
+            "fighting"
+        ],
+        "debilidades": [
+            "flying",
+            "psychic",
             "fairy"
         ],
-        "debilidades": [
-            "ground",
-            "psychic"
-        ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
             "Mewtwo (Confusión/Onda Mental)",
             "Alakazam (Confusión/Premonición)"
         ]
     },
     {
-        "nombre": "Togetic",
+        "nombre": "Scizor",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
         "tipos": [
-            "fairy",
-            "flying"
-        ],
-        "debilidades": [
-            "poison",
+            "bug",
             "steel"
         ],
+        "debilidades": [
+            "flying",
+            "rock",
+            "fire"
+        ],
         "counters": [
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)",
-            "Metagross (Puño Bala/Puño Meteoro)",
-            "Dialga (Garra Metal/Cabeza Hierro)"
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Magcargo",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/219.png",
+        "tipos": [
+            "fire",
+            "rock"
+        ],
+        "debilidades": [
+            "ground",
+            "rock",
+            "water"
+        ],
+        "counters": [
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
         ]
     },
     {
