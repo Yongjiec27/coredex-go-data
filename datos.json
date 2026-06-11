@@ -120,12 +120,12 @@
         ]
     },
     {
-        "nombre": "Reshiram",
+        "nombre": "Zekrom",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
         "tipos": [
             "dragon",
-            "fire"
+            "electric"
         ],
         "debilidades": [
             "ice",
@@ -140,12 +140,12 @@
         ]
     },
     {
-        "nombre": "Mega Audino",
+        "nombre": "Mega Lopunny",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png",
         "tipos": [
             "normal",
-            "fairy"
+            "fighting"
         ],
         "debilidades": [
             "fighting"
