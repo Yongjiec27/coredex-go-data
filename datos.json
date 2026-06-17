@@ -1,102 +1,96 @@
 [
     {
-        "nombre": "Rockruff",
+        "nombre": "Rhyhorn",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/744.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
         "tipos": [
+            "ground",
             "rock"
         ],
         "debilidades": [
-            "fighting",
-            "ground",
-            "steel",
             "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Skiddo",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/672.png",
+        "tipos": [
             "grass"
         ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Scraggy",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-        "tipos": [
-            "dark",
-            "fighting"
-        ],
-        "debilidades": [
-            "fighting",
-            "bug",
-            "fairy"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
-        ]
-    },
-    {
-        "nombre": "Honedge",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
-        "tipos": [
-            "steel",
-            "ghost"
-        ],
-        "debilidades": [
-            "fighting",
-            "ground",
-            "fire"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Machamp",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
-        "tipos": [
-            "fighting"
-        ],
         "debilidades": [
             "flying",
-            "psychic",
-            "fairy"
+            "poison",
+            "bug",
+            "fire",
+            "ice"
         ],
         "counters": [
             "Rayquaza (Tajo Aéreo/Ascenso Draco)",
             "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
         ]
     },
     {
-        "nombre": "Scizor",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png",
+        "nombre": "Espurr",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/677.png",
         "tipos": [
+            "psychic"
+        ],
+        "debilidades": [
             "bug",
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)",
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)"
+        ]
+    },
+    {
+        "nombre": "Fidough",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+        "tipos": [
+            "fairy"
+        ],
+        "debilidades": [
+            "poison",
             "steel"
         ],
+        "counters": [
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)",
+            "Metagross (Puño Bala/Puño Meteoro)",
+            "Dialga (Garra Metal/Cabeza Hierro)"
+        ]
+    },
+    {
+        "nombre": "Alolan Raichu",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png",
+        "tipos": [
+            "electric",
+            "psychic"
+        ],
         "debilidades": [
-            "flying",
-            "rock",
-            "fire"
+            "ground"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
@@ -117,6 +111,26 @@
             "Garchomp (Disparo Lodo/Tierra Viva)",
             "Rampardos (Antiaéreo/Avalancha)",
             "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Flygon",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png",
+        "tipos": [
+            "ground",
+            "dragon"
+        ],
+        "debilidades": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
         ]
     },
     {
