@@ -1,58 +1,41 @@
 [
     {
-        "nombre": "Zacian",
+        "nombre": "Dialga",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
         "tipos": [
-            "fairy"
+            "steel",
+            "dragon"
         ],
         "debilidades": [
-            "poison",
-            "steel"
+            "fighting",
+            "ground",
+            "fire"
         ],
         "counters": [
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)",
-            "Metagross (Puño Bala/Puño Meteoro)",
-            "Dialga (Garra Metal/Cabeza Hierro)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Zamazenta",
+        "nombre": "Palkia",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
         "tipos": [
-            "fighting"
+            "water",
+            "dragon"
         ],
         "debilidades": [
-            "flying",
-            "psychic",
-            "fairy"
+            "grass",
+            "electric"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
-        ]
-    },
-    {
-        "nombre": "Mega Gengar",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png",
-        "tipos": [
-            "ghost",
-            "poison"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
         ]
     },
     {
@@ -191,25 +174,6 @@
             "Machamp (Contraataque/Puño Dinámico)",
             "Groudon (Disparo Lodo/Filo del Abismo)",
             "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Palkia",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-        "tipos": [
-            "water",
-            "dragon"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
         ]
     }
 ]
