@@ -1,16 +1,34 @@
 [
     {
-        "nombre": "Dialga",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+        "nombre": "Mega Pidgeot",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png",
         "tipos": [
-            "steel",
-            "dragon"
+            "normal",
+            "flying"
+        ],
+        "debilidades": [
+            "fighting"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)"
+        ]
+    },
+    {
+        "nombre": "Mega Aerodactyl",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png",
+        "tipos": [
+            "rock",
+            "flying"
         ],
         "debilidades": [
             "fighting",
             "ground",
-            "fire"
+            "steel",
+            "water",
+            "grass"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
@@ -20,12 +38,31 @@
         ]
     },
     {
-        "nombre": "Palkia",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+        "nombre": "Mega Salamence",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png",
         "tipos": [
-            "water",
-            "dragon"
+            "dragon",
+            "flying"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Kyogre",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+        "tipos": [
+            "water"
         ],
         "debilidades": [
             "grass",
@@ -36,6 +73,105 @@
             "Sceptile (Semilladora/Planta Feroz)",
             "Zekrom (Rayo Carga/Voltio Cruel)",
             "Xurkitree (Impactrueno/Chispazo)"
+        ]
+    },
+    {
+        "nombre": "Groudon",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+        "tipos": [
+            "ground"
+        ],
+        "debilidades": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Rayquaza",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/384.png",
+        "tipos": [
+            "dragon",
+            "flying"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Reshiram",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png",
+        "tipos": [
+            "dragon",
+            "fire"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Zekrom",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+        "tipos": [
+            "dragon",
+            "electric"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Kyurem",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+        "tipos": [
+            "dragon",
+            "ice"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
@@ -174,6 +310,25 @@
             "Machamp (Contraataque/Puño Dinámico)",
             "Groudon (Disparo Lodo/Filo del Abismo)",
             "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Palkia",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
+        "tipos": [
+            "water",
+            "dragon"
+        ],
+        "debilidades": [
+            "grass",
+            "electric"
+        ],
+        "counters": [
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
         ]
     }
 ]
