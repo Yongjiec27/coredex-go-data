@@ -1,79 +1,42 @@
 [
     {
-        "nombre": "Articuno",
+        "nombre": "Kyogre",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
         "tipos": [
-            "ice",
-            "flying"
-        ],
-        "debilidades": [
-            "fighting",
-            "rock",
-            "steel",
-            "fire"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Zapdos",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
-        "tipos": [
-            "electric",
-            "flying"
-        ],
-        "debilidades": [
-            "ground"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Moltres",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
-        "tipos": [
-            "fire",
-            "flying"
-        ],
-        "debilidades": [
-            "ground",
-            "rock",
             "water"
         ],
+        "debilidades": [
+            "grass",
+            "electric"
+        ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
         ]
     },
     {
-        "nombre": "Mega Lucario",
+        "nombre": "Mega Sceptile",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10065.png",
         "tipos": [
-            "fighting",
-            "steel"
+            "grass",
+            "dragon"
         ],
         "debilidades": [
             "flying",
-            "psychic",
-            "fairy"
+            "poison",
+            "bug",
+            "fire",
+            "ice"
         ],
         "counters": [
             "Rayquaza (Tajo Aéreo/Ascenso Draco)",
             "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
         ]
     },
     {
