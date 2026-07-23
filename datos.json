@@ -1,42 +1,42 @@
 [
     {
-        "nombre": "Kyogre",
+        "nombre": "Solgaleo",
         "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/382.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
         "tipos": [
-            "water"
+            "psychic",
+            "steel"
         ],
         "debilidades": [
-            "grass",
-            "electric"
+            "bug",
+            "ghost",
+            "dark"
         ],
         "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)",
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)"
         ]
     },
     {
-        "nombre": "Mega Sceptile",
+        "nombre": "Mega Salamence",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10065.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png",
         "tipos": [
-            "grass",
-            "dragon"
+            "dragon",
+            "flying"
         ],
         "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
+            "ice",
+            "dragon",
+            "fairy"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
