@@ -1,162 +1,130 @@
 [
     {
-        "nombre": "Bulbasaur",
+        "nombre": "Larvitar",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
         "tipos": [
-            "grass",
-            "poison"
-        ],
-        "debilidades": [
-            "flying",
-            "poison",
-            "bug",
-            "fire",
-            "ice"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)"
-        ]
-    },
-    {
-        "nombre": "Charmander",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
-        "tipos": [
-            "fire"
-        ],
-        "debilidades": [
-            "ground",
             "rock",
-            "water"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Squirtle",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
-        "tipos": [
-            "water"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
-        ]
-    },
-    {
-        "nombre": "Pikachu",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-        "tipos": [
-            "electric"
-        ],
-        "debilidades": [
             "ground"
         ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
         "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
             "Groudon (Disparo Lodo/Filo del Abismo)",
             "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Lapras",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+        "nombre": "Cranidos",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
         "tipos": [
+            "rock"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
             "water",
-            "ice"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
+            "grass"
         ],
         "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Vaporeon",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+        "nombre": "Shieldon",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
         "tipos": [
-            "water"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
-        ]
-    },
-    {
-        "nombre": "Dragonite",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
-        "tipos": [
-            "dragon",
-            "flying"
-        ],
-        "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
-        ],
-        "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
-        ]
-    },
-    {
-        "nombre": "Solgaleo",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
-        "tipos": [
-            "psychic",
+            "rock",
             "steel"
         ],
         "debilidades": [
-            "bug",
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Sinistea",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+        "tipos": [
+            "ghost"
+        ],
+        "debilidades": [
             "ghost",
             "dark"
         ],
         "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
             "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
         ]
     },
     {
-        "nombre": "Mega Salamence",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png",
+        "nombre": "Excadrill",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
+        "tipos": [
+            "ground",
+            "steel"
+        ],
+        "debilidades": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Drampa",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png",
+        "tipos": [
+            "normal",
+            "dragon"
+        ],
+        "debilidades": [
+            "fighting"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)"
+        ]
+    },
+    {
+        "nombre": "Kyurem",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
         "tipos": [
             "dragon",
-            "flying"
+            "ice"
         ],
         "debilidades": [
             "ice",
@@ -168,6 +136,25 @@
             "Darmanitan Galar (Colmillo Hielo/Alud)",
             "Rayquaza (Cola Dragón/Enfado)",
             "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Mega Aggron",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png",
+        "tipos": [
+            "steel"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
