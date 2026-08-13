@@ -1,164 +1,114 @@
 [
     {
-        "nombre": "Alolan Sandshrew",
+        "nombre": "Tirtouga",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10101.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/564.png",
         "tipos": [
-            "ice",
-            "steel"
+            "water",
+            "rock"
         ],
         "debilidades": [
-            "fighting",
-            "rock",
-            "steel",
-            "fire"
+            "grass",
+            "electric"
         ],
         "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
         ]
     },
     {
-        "nombre": "Darumaka",
+        "nombre": "Archen",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/554.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
         "tipos": [
-            "fire"
+            "rock",
+            "flying"
         ],
         "debilidades": [
+            "fighting",
             "ground",
-            "rock",
-            "water"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Galarian Darumaka",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png",
-        "tipos": [
-            "ice"
-        ],
-        "debilidades": [
-            "fighting",
-            "rock",
             "steel",
-            "fire"
+            "water",
+            "grass"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
             "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Alolan Marowak",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png",
+        "nombre": "Axew",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
         "tipos": [
-            "fire",
+            "dragon"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Poltchageist",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+        "tipos": [
+            "grass",
             "ghost"
         ],
         "debilidades": [
-            "ground",
-            "rock",
-            "water"
+            "flying",
+            "poison",
+            "bug",
+            "fire",
+            "ice"
         ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
         ]
     },
     {
-        "nombre": "Wyrdeer",
+        "nombre": "Galarian Mr. Mime",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10168.png",
         "tipos": [
-            "normal",
+            "ice",
             "psychic"
         ],
         "debilidades": [
-            "fighting"
+            "fighting",
+            "rock",
+            "steel",
+            "fire"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)"
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
         ]
     },
     {
-        "nombre": "Uxie",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/480.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
-        ]
-    },
-    {
-        "nombre": "Mesprit",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/481.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
-        ]
-    },
-    {
-        "nombre": "Azelf",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/482.png",
-        "tipos": [
-            "psychic"
-        ],
-        "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
-        ]
-    },
-    {
-        "nombre": "Mega Blaziken",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10050.png",
+        "nombre": "Turtonator",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
         "tipos": [
             "fire",
-            "fighting"
+            "dragon"
         ],
         "debilidades": [
             "ground",
@@ -170,6 +120,65 @@
             "Garchomp (Disparo Lodo/Tierra Viva)",
             "Rampardos (Antiaéreo/Avalancha)",
             "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Kleavor",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+        "tipos": [
+            "bug",
+            "rock"
+        ],
+        "debilidades": [
+            "flying",
+            "rock",
+            "fire"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Groudon",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/383.png",
+        "tipos": [
+            "ground"
+        ],
+        "debilidades": [
+            "water",
+            "grass",
+            "ice"
+        ],
+        "counters": [
+            "Kyogre (Cascada/Pulso Primigenio)",
+            "Swampert (Pistola Agua/Hidrocañón)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)"
+        ]
+    },
+    {
+        "nombre": "Mega Garchomp",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png",
+        "tipos": [
+            "dragon",
+            "ground"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
