@@ -1,41 +1,22 @@
 [
     {
-        "nombre": "Impidimp",
+        "nombre": "Honedge",
         "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
         "tipos": [
-            "dark",
-            "fairy"
+            "steel",
+            "ghost"
         ],
         "debilidades": [
             "fighting",
-            "bug",
-            "fairy"
+            "ground",
+            "fire"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
             "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
-        ]
-    },
-    {
-        "nombre": "Passimian",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
-        "tipos": [
-            "fighting"
-        ],
-        "debilidades": [
-            "flying",
-            "psychic",
-            "fairy"
-        ],
-        "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
