@@ -1,5 +1,24 @@
 [
     {
+        "nombre": "Dratini",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+        "tipos": [
+            "dragon"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
         "nombre": "Honedge",
         "nivel": "1",
         "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png",
@@ -20,11 +39,12 @@
         ]
     },
     {
-        "nombre": "Regirock",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/377.png",
+        "nombre": "Tyrunt",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
         "tipos": [
-            "rock"
+            "rock",
+            "dragon"
         ],
         "debilidades": [
             "fighting",
@@ -41,36 +61,19 @@
         ]
     },
     {
-        "nombre": "Regice",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/378.png",
+        "nombre": "Amaura",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
         "tipos": [
+            "rock",
             "ice"
         ],
         "debilidades": [
             "fighting",
-            "rock",
-            "steel",
-            "fire"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Registeel",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/379.png",
-        "tipos": [
-            "steel"
-        ],
-        "debilidades": [
-            "fighting",
             "ground",
-            "fire"
+            "steel",
+            "water",
+            "grass"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
@@ -80,22 +83,124 @@
         ]
     },
     {
-        "nombre": "Mega Gyarados",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png",
+        "nombre": "Passimian",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/766.png",
         "tipos": [
-            "water",
-            "dark"
+            "fighting"
         ],
         "debilidades": [
-            "grass",
-            "electric"
+            "flying",
+            "psychic",
+            "fairy"
         ],
         "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Mewtwo (Confusión/Onda Mental)",
+            "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Mega Victreebel",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10279.png",
+        "tipos": [
+            "grass",
+            "poison"
+        ],
+        "debilidades": [
+            "flying",
+            "poison",
+            "bug",
+            "fire",
+            "ice"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
+        ]
+    },
+    {
+        "nombre": "Mega Dragonite",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10281.png",
+        "tipos": [
+            "dragon",
+            "flying"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Mega Malamar",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10297.png",
+        "tipos": [
+            "dark",
+            "psychic"
+        ],
+        "debilidades": [
+            "fighting",
+            "bug",
+            "fairy"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)"
+        ]
+    },
+    {
+        "nombre": "Mega Latias",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10062.png",
+        "tipos": [
+            "dragon",
+            "psychic"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
+        ]
+    },
+    {
+        "nombre": "Mega Latios",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10063.png",
+        "tipos": [
+            "dragon",
+            "psychic"
+        ],
+        "debilidades": [
+            "ice",
+            "dragon",
+            "fairy"
+        ],
+        "counters": [
+            "Mamoswine (Nieve Polvo/Alud)",
+            "Darmanitan Galar (Colmillo Hielo/Alud)",
+            "Rayquaza (Cola Dragón/Enfado)",
+            "Salamence (Cola Dragón/Cometa Draco)"
         ]
     },
     {
