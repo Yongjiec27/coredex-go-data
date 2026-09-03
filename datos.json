@@ -102,22 +102,23 @@
         ]
     },
     {
-        "nombre": "Mega Falinks",
+        "nombre": "Mega Skarmory",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10303.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10284.png",
         "tipos": [
-            "fighting"
+            "steel",
+            "flying"
         ],
         "debilidades": [
-            "flying",
-            "psychic",
-            "fairy"
+            "fighting",
+            "ground",
+            "fire"
         ],
         "counters": [
-            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
-            "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
