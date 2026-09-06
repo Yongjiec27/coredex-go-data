@@ -1,42 +1,33 @@
 [
     {
-        "nombre": "Mega Latias",
+        "nombre": "Mega Ampharos",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10062.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png",
         "tipos": [
-            "dragon",
-            "psychic"
+            "electric",
+            "dragon"
         ],
         "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
+            "ground"
         ],
         "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Mega Latios",
+        "nombre": "Mega Manectric",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10063.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png",
         "tipos": [
-            "dragon",
-            "psychic"
+            "electric"
         ],
         "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
+            "ground"
         ],
         "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
