@@ -1,120 +1,8 @@
 [
     {
-        "nombre": "Alolan Rattata",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png",
-        "tipos": [
-            "dark",
-            "normal"
-        ],
-        "debilidades": [
-            "fighting",
-            "bug",
-            "fairy"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
-        ]
-    },
-    {
-        "nombre": "Dunsparce",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png",
-        "tipos": [
-            "normal"
-        ],
-        "debilidades": [
-            "fighting"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)"
-        ]
-    },
-    {
-        "nombre": "Scraggy",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png",
-        "tipos": [
-            "dark",
-            "fighting"
-        ],
-        "debilidades": [
-            "fighting",
-            "bug",
-            "fairy"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
-        ]
-    },
-    {
-        "nombre": "Fidough",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-        "tipos": [
-            "fairy"
-        ],
-        "debilidades": [
-            "poison",
-            "steel"
-        ],
-        "counters": [
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)",
-            "Metagross (Puño Bala/Puño Meteoro)",
-            "Dialga (Garra Metal/Cabeza Hierro)"
-        ]
-    },
-    {
-        "nombre": "Alolan Dugtrio",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10106.png",
-        "tipos": [
-            "ground",
-            "steel"
-        ],
-        "debilidades": [
-            "water",
-            "grass",
-            "ice"
-        ],
-        "counters": [
-            "Kyogre (Cascada/Pulso Primigenio)",
-            "Swampert (Pistola Agua/Hidrocañón)",
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)"
-        ]
-    },
-    {
-        "nombre": "Lapras",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
-        "tipos": [
-            "water",
-            "ice"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
-        ]
-    },
-    {
-        "nombre": "Falinks",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png",
+        "nombre": "Zamazenta",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
         "tipos": [
             "fighting"
         ],
@@ -131,61 +19,25 @@
         ]
     },
     {
-        "nombre": "Zacian",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
-        "tipos": [
-            "fairy"
-        ],
-        "debilidades": [
-            "poison",
-            "steel"
-        ],
-        "counters": [
-            "Nihilego (Puya Nociva/Bomba Lodo)",
-            "Roserade (Puya Nociva/Bomba Lodo)",
-            "Metagross (Puño Bala/Puño Meteoro)",
-            "Dialga (Garra Metal/Cabeza Hierro)"
-        ]
-    },
-    {
-        "nombre": "Mega Beedrill",
+        "nombre": "Mega Venusaur",
         "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png",
         "tipos": [
-            "bug",
+            "grass",
             "poison"
         ],
         "debilidades": [
             "flying",
-            "rock",
-            "fire"
+            "poison",
+            "bug",
+            "fire",
+            "ice"
         ],
         "counters": [
             "Rayquaza (Tajo Aéreo/Ascenso Draco)",
             "Moltres (Ataque Ala/Ataque Aéreo)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Mega Houndoom",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png",
-        "tipos": [
-            "dark",
-            "fire"
-        ],
-        "debilidades": [
-            "fighting",
-            "bug",
-            "fairy"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)"
         ]
     },
     {
