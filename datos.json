@@ -1,5 +1,79 @@
 [
     {
+        "nombre": "Clefairy",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+        "tipos": [
+            "fairy"
+        ],
+        "debilidades": [
+            "poison",
+            "steel"
+        ],
+        "counters": [
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)",
+            "Metagross (Puño Bala/Puño Meteoro)",
+            "Dialga (Garra Metal/Cabeza Hierro)"
+        ]
+    },
+    {
+        "nombre": "Teddiursa",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
+        "tipos": [
+            "normal"
+        ],
+        "debilidades": [
+            "fighting"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)"
+        ]
+    },
+    {
+        "nombre": "Elgyem",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png",
+        "tipos": [
+            "psychic"
+        ],
+        "debilidades": [
+            "bug",
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)",
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)"
+        ]
+    },
+    {
+        "nombre": "Amaura",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png",
+        "tipos": [
+            "rock",
+            "ice"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
         "nombre": "Starmie",
         "nivel": "3",
         "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
