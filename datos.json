@@ -1,154 +1,78 @@
 [
     {
-        "nombre": "Axew",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png",
-        "tipos": [
-            "dragon"
-        ],
-        "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
-        ],
-        "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
-        ]
-    },
-    {
-        "nombre": "Goomy",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-        "tipos": [
-            "dragon"
-        ],
-        "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
-        ],
-        "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
-        ]
-    },
-    {
-        "nombre": "Jangmo-o",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/782.png",
-        "tipos": [
-            "dragon"
-        ],
-        "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
-        ],
-        "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
-        ]
-    },
-    {
-        "nombre": "Frigibax",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-        "tipos": [
-            "dragon",
-            "ice"
-        ],
-        "debilidades": [
-            "ice",
-            "dragon",
-            "fairy"
-        ],
-        "counters": [
-            "Mamoswine (Nieve Polvo/Alud)",
-            "Darmanitan Galar (Colmillo Hielo/Alud)",
-            "Rayquaza (Cola Dragón/Enfado)",
-            "Salamence (Cola Dragón/Cometa Draco)"
-        ]
-    },
-    {
-        "nombre": "Alolan Raichu",
+        "nombre": "Cofagrigus",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
         "tipos": [
-            "electric",
-            "psychic"
+            "ghost"
         ],
         "debilidades": [
-            "ground"
+            "ghost",
+            "dark"
         ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
         ]
     },
     {
-        "nombre": "Alolan Ninetales",
+        "nombre": "Trevenant",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
         "tipos": [
-            "ice",
-            "fairy"
+            "ghost",
+            "grass"
+        ],
+        "debilidades": [
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
+        ]
+    },
+    {
+        "nombre": "Dhelmise",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
+        "tipos": [
+            "ghost",
+            "grass"
+        ],
+        "debilidades": [
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
+        ]
+    },
+    {
+        "nombre": "Mega Sableye",
+        "nivel": "Mega",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png",
+        "tipos": [
+            "dark",
+            "ghost"
         ],
         "debilidades": [
             "fighting",
-            "rock",
-            "steel",
-            "fire"
+            "bug",
+            "fairy"
         ],
         "counters": [
             "Lucario (Contraataque/Esfera Aural)",
             "Machamp (Contraataque/Puño Dinámico)",
-            "Rampardos (Antiaéreo/Avalancha)",
-            "Rhyperior (Antiaéreo/Romperrocas)"
-        ]
-    },
-    {
-        "nombre": "Alolan Muk",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10113.png",
-        "tipos": [
-            "poison",
-            "dark"
-        ],
-        "debilidades": [
-            "ground",
-            "psychic"
-        ],
-        "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
-            "Mewtwo (Confusión/Onda Mental)",
-            "Alakazam (Confusión/Premonición)"
-        ]
-    },
-    {
-        "nombre": "Palkia",
-        "nivel": "5",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png",
-        "tipos": [
-            "water",
-            "dragon"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
+            "Pheromosa (Picadura/Zumbido)",
+            "Volcarona (Picadura/Zumbido)"
         ]
     },
     {
