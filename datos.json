@@ -1,5 +1,42 @@
 [
     {
+        "nombre": "Duskull",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
+        "tipos": [
+            "ghost"
+        ],
+        "debilidades": [
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
+        ]
+    },
+    {
+        "nombre": "Litwick",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
+        "tipos": [
+            "ghost",
+            "fire"
+        ],
+        "debilidades": [
+            "ghost",
+            "dark"
+        ],
+        "counters": [
+            "Gengar (Lengüetazo/Bola Sombra)",
+            "Chandelure (Infortunio/Bola Sombra)",
+            "Tyranitar (Mordisco/Giro Vil)",
+            "Hydreigon (Mordisco/Brutalillo)"
+        ]
+    },
+    {
         "nombre": "Cofagrigus",
         "nivel": "3",
         "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
