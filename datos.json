@@ -1,183 +1,10 @@
 [
     {
-        "nombre": "Duskull",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png",
-        "tipos": [
-            "ghost"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Litwick",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png",
-        "tipos": [
-            "ghost",
-            "fire"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Cofagrigus",
+        "nombre": "Druddigon",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png",
         "tipos": [
-            "ghost"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Trevenant",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png",
-        "tipos": [
-            "ghost",
-            "grass"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Dhelmise",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png",
-        "tipos": [
-            "ghost",
-            "grass"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Mega Sableye",
-        "nivel": "Mega",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png",
-        "tipos": [
-            "dark",
-            "ghost"
-        ],
-        "debilidades": [
-            "fighting",
-            "bug",
-            "fairy"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)"
-        ]
-    },
-    {
-        "nombre": "Gastly",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
-        "tipos": [
-            "ghost",
-            "poison"
-        ],
-        "debilidades": [
-            "ghost",
-            "dark"
-        ],
-        "counters": [
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)",
-            "Tyranitar (Mordisco/Giro Vil)",
-            "Hydreigon (Mordisco/Brutalillo)"
-        ]
-    },
-    {
-        "nombre": "Totodile",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png",
-        "tipos": [
-            "water"
-        ],
-        "debilidades": [
-            "grass",
-            "electric"
-        ],
-        "counters": [
-            "Kartana (Hoja Afilada/Hoja Aguda)",
-            "Sceptile (Semilladora/Planta Feroz)",
-            "Zekrom (Rayo Carga/Voltio Cruel)",
-            "Xurkitree (Impactrueno/Chispazo)"
-        ]
-    },
-    {
-        "nombre": "Shieldon",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-        "tipos": [
-            "rock",
-            "steel"
-        ],
-        "debilidades": [
-            "fighting",
-            "ground",
-            "steel",
-            "water",
-            "grass"
-        ],
-        "counters": [
-            "Lucario (Contraataque/Esfera Aural)",
-            "Machamp (Contraataque/Puño Dinámico)",
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)"
-        ]
-    },
-    {
-        "nombre": "Gible",
-        "nivel": "1",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
-        "tipos": [
-            "dragon",
-            "ground"
+            "dragon"
         ],
         "debilidades": [
             "ice",
@@ -192,9 +19,46 @@
         ]
     },
     {
-        "nombre": "Primeape",
+        "nombre": "Orthworm",
         "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+        "tipos": [
+            "steel"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "fire"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Zacian",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png",
+        "tipos": [
+            "fairy"
+        ],
+        "debilidades": [
+            "poison",
+            "steel"
+        ],
+        "counters": [
+            "Nihilego (Puya Nociva/Bomba Lodo)",
+            "Roserade (Puya Nociva/Bomba Lodo)",
+            "Metagross (Puño Bala/Puño Meteoro)",
+            "Dialga (Garra Metal/Cabeza Hierro)"
+        ]
+    },
+    {
+        "nombre": "Zamazenta",
+        "nivel": "5",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png",
         "tipos": [
             "fighting"
         ],
@@ -211,42 +75,140 @@
         ]
     },
     {
-        "nombre": "Kirlia",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png",
+        "nombre": "Larvitar",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
         "tipos": [
-            "psychic",
-            "fairy"
+            "rock",
+            "ground"
         ],
         "debilidades": [
-            "bug",
-            "ghost",
-            "dark"
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
         ],
         "counters": [
-            "Pheromosa (Picadura/Zumbido)",
-            "Volcarona (Picadura/Zumbido)",
-            "Gengar (Lengüetazo/Bola Sombra)",
-            "Chandelure (Infortunio/Bola Sombra)"
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
         ]
     },
     {
-        "nombre": "Drapion",
-        "nivel": "3",
-        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+        "nombre": "Mudkip",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png",
         "tipos": [
-            "poison",
-            "dark"
+            "water"
         ],
         "debilidades": [
-            "ground",
-            "psychic"
+            "grass",
+            "electric"
         ],
         "counters": [
-            "Groudon (Disparo Lodo/Filo del Abismo)",
-            "Garchomp (Disparo Lodo/Tierra Viva)",
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
+        ]
+    },
+    {
+        "nombre": "Makuhita",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png",
+        "tipos": [
+            "fighting"
+        ],
+        "debilidades": [
+            "flying",
+            "psychic",
+            "fairy"
+        ],
+        "counters": [
+            "Rayquaza (Tajo Aéreo/Ascenso Draco)",
+            "Moltres (Ataque Ala/Ataque Aéreo)",
             "Mewtwo (Confusión/Onda Mental)",
             "Alakazam (Confusión/Premonición)"
+        ]
+    },
+    {
+        "nombre": "Cranidos",
+        "nivel": "1",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png",
+        "tipos": [
+            "rock"
+        ],
+        "debilidades": [
+            "fighting",
+            "ground",
+            "steel",
+            "water",
+            "grass"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Groudon (Disparo Lodo/Filo del Abismo)",
+            "Garchomp (Disparo Lodo/Tierra Viva)"
+        ]
+    },
+    {
+        "nombre": "Poliwhirl",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+        "tipos": [
+            "water"
+        ],
+        "debilidades": [
+            "grass",
+            "electric"
+        ],
+        "counters": [
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
+        ]
+    },
+    {
+        "nombre": "Piloswine",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png",
+        "tipos": [
+            "ice",
+            "ground"
+        ],
+        "debilidades": [
+            "fighting",
+            "rock",
+            "steel",
+            "fire"
+        ],
+        "counters": [
+            "Lucario (Contraataque/Esfera Aural)",
+            "Machamp (Contraataque/Puño Dinámico)",
+            "Rampardos (Antiaéreo/Avalancha)",
+            "Rhyperior (Antiaéreo/Romperrocas)"
+        ]
+    },
+    {
+        "nombre": "Prinplup",
+        "nivel": "3",
+        "foto": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+        "tipos": [
+            "water"
+        ],
+        "debilidades": [
+            "grass",
+            "electric"
+        ],
+        "counters": [
+            "Kartana (Hoja Afilada/Hoja Aguda)",
+            "Sceptile (Semilladora/Planta Feroz)",
+            "Zekrom (Rayo Carga/Voltio Cruel)",
+            "Xurkitree (Impactrueno/Chispazo)"
         ]
     }
 ]
